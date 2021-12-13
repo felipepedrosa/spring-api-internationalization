@@ -1,0 +1,1 @@
+## Example of messages internationalization with Spring
